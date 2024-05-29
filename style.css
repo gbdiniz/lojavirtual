@@ -1,0 +1,77 @@
+.principal {
+    color: #0C70D4;
+}
+
+.bg-principal {
+    background-color: #0C70D4;
+}
+
+.bg-escuro {
+    background-color: #063360;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Poppins, sans-serif;
+}
+
+#categorias a {
+    text-decoration: none;
+    color: white;
+}
+
+#categorias a h5 {
+    font-size: 16px;
+    text-transform: capitalize;
+}
+
+#text-login {
+    font-size: 16px;
+    margin: 0;
+    padding-left: 8px;
+    color: #0C70D4;
+    font-weight: 400;
+}
+
+.bold {
+    font-weight: 600;
+}
+
+#banner {
+    height: 450px;
+    flex-direction: column;
+}
+
+#banner h2 {
+    font-weight: 700;
+    font-size: 4rem;
+}
+
+#banner h4 {
+    font-weight: 300;
+    font-size: 1.4rem;
+}
+
+#product-card h3{
+    font-weight: 600;
+    font-size: 20px;
+}
+
+#product-card p {
+    font-weight: 300;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+}
+
+#product-card h4 {
+    font-weight: 700;
+    font-size: 24px;
+}
+
+main h2 {
+    font-weight: 700;
+    font-size: 28px;
+    text-transform: capitalize;
+}
